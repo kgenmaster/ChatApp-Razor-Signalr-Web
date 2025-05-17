@@ -1,0 +1,471 @@
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.exe
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.deps.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.runtimeconfig.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\scopedcss\bundle\ACE_MVC.styles.css
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\scopedcss\projectbundle\ACE_MVC.bundle.scp.css
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\a1ix66zav4-b9sayid5wm.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\ir39tjsg2z-61n19gt1b8.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\tma6jnennk-xtxxf3hu2r.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\kg3i56srv3-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\dgcmc1wfhk-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\aii33xfltk-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\41z980hc01-aexeepp0ev.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\c4o0mffvlq-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\miau2piquw-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\t9vxt97jei-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\y42xeoy49a-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\qowwynpf6m-ub07r2b239.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\by0fw9lfxs-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\dpt3q6j5cz-b7pk76d08c.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\bn6nfkbn01-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\p6ucwndgcg-rzd6atqjts.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\owm82vqr6n-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\5oqi6o4hws-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\3thc19jwyt-jd9uben2k1.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\706xbqz7cd-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\n0rswdttat-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\hj73zneh7k-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\pkzlx6cw5e-c2oey78nd0.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\x15p6bgjh2-tdbxkamptv.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\b4hxfk748q-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\eervg2dymi-06098lyss8.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\0vmrodlq2k-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\s0a7cjhaq4-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\u6dpt9i1oa-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\l6t64e9bq9-46ein0sx1k.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\yn2inz8z8u-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\pkdqo0c7wf-37tfw0ft22.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\7yojdkrq5o-hrwsygsryq.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\obpiapra4r-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\8phu944tzd-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\u4x4jk5ogv-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\fetikx4zy7-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\10gan972bj-493y06b0oq.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\gou8bz0cwb-iovd86k7lj.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\pew5k0idvk-vr1egmr9el.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\krvjrcixx7-kbrnm935zg.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\me038thki7-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\jpd5fpe5ua-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\phc026rl0y-notf2xhcfb.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\y9s1ivxtwq-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\w4jaum7rl3-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\n5ijbq3bd0-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\fao8eaiujk-47otxtyo56.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\22c4wh5t27-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\ks8y84bvhw-356vix0kms.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\xwhwvruftr-83jwlth58m.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\lbh1ryp5mo-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\ppic66zl9v-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\n9iknhybeh-ag7o75518u.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\i9mvqwkbww-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\4itdqqehs4-0i3buxo5is.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\rh4loa3sfg-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\0p1cpy18vz-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\co26psx5pv-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\juthb1aoe9-muycvpuwrr.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\co5hdhp59o-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\knmz14hr0o-mlv21k5csn.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\0o9fj8dnpm-sflwix41pe.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\compressed\40vz9l8vza-sflwix41pe.gz
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.build.ACE_MVC.props
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ACE_MVC.props
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ACE_MVC.props
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.Up2Date
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\refint\ACE_MVC.dll
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ACE_MVC.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASPNET Projects\ACE_MVC\obj\Debug\net9.0\ref\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.exe
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.deps.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\scopedcss\bundle\ACE_MVC.styles.css
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\scopedcss\projectbundle\ACE_MVC.bundle.scp.css
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\a1ix66zav4-b9sayid5wm.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\ir39tjsg2z-61n19gt1b8.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\kg3i56srv3-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\dgcmc1wfhk-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\aii33xfltk-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\41z980hc01-aexeepp0ev.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\c4o0mffvlq-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\miau2piquw-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\t9vxt97jei-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\y42xeoy49a-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\qowwynpf6m-ub07r2b239.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\by0fw9lfxs-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\dpt3q6j5cz-b7pk76d08c.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\bn6nfkbn01-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\p6ucwndgcg-rzd6atqjts.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\owm82vqr6n-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\5oqi6o4hws-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\3thc19jwyt-jd9uben2k1.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\706xbqz7cd-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\n0rswdttat-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\hj73zneh7k-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\pkzlx6cw5e-c2oey78nd0.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\x15p6bgjh2-tdbxkamptv.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\b4hxfk748q-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\eervg2dymi-06098lyss8.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\0vmrodlq2k-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\s0a7cjhaq4-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\u6dpt9i1oa-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\l6t64e9bq9-46ein0sx1k.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\yn2inz8z8u-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\pkdqo0c7wf-37tfw0ft22.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\7yojdkrq5o-hrwsygsryq.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\obpiapra4r-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\8phu944tzd-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\u4x4jk5ogv-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\fetikx4zy7-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\10gan972bj-493y06b0oq.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\gou8bz0cwb-iovd86k7lj.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\pew5k0idvk-vr1egmr9el.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\krvjrcixx7-kbrnm935zg.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\me038thki7-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\jpd5fpe5ua-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\phc026rl0y-notf2xhcfb.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\y9s1ivxtwq-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\w4jaum7rl3-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\n5ijbq3bd0-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\fao8eaiujk-47otxtyo56.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\22c4wh5t27-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\ks8y84bvhw-356vix0kms.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\xwhwvruftr-83jwlth58m.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\lbh1ryp5mo-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\ppic66zl9v-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\n9iknhybeh-ag7o75518u.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\i9mvqwkbww-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\4itdqqehs4-0i3buxo5is.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\rh4loa3sfg-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\0p1cpy18vz-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\co26psx5pv-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\juthb1aoe9-muycvpuwrr.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\co5hdhp59o-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\knmz14hr0o-mlv21k5csn.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\0o9fj8dnpm-sflwix41pe.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\40vz9l8vza-sflwix41pe.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.build.ACE_MVC.props
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ACE_MVC.props
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ACE_MVC.props
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.Up2Date
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\refint\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ACE_MVC.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\ref\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\package-lock.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\bin\Debug\net9.0\package.json
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\bzhi38e63i-cqu3aupeo3.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\5fpl7v3dqb-m3i9f6419i.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\package-lock.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\package.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.exe
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.deps.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\scopedcss\bundle\ACE_MVC.styles.css
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\scopedcss\projectbundle\ACE_MVC.bundle.scp.css
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\a1ix66zav4-b9sayid5wm.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\fd92hisjlu-cow836qnv8.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\ir39tjsg2z-61n19gt1b8.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\8jzyphztq6-ksun57v3ja.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\bzhi38e63i-cqu3aupeo3.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\5fpl7v3dqb-m3i9f6419i.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\tma6jnennk-xtxxf3hu2r.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\kg3i56srv3-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\dgcmc1wfhk-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\aii33xfltk-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\41z980hc01-aexeepp0ev.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\c4o0mffvlq-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\miau2piquw-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\t9vxt97jei-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\y42xeoy49a-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\qowwynpf6m-ub07r2b239.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\by0fw9lfxs-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\dpt3q6j5cz-b7pk76d08c.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\bn6nfkbn01-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\p6ucwndgcg-rzd6atqjts.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\owm82vqr6n-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\5oqi6o4hws-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\3thc19jwyt-jd9uben2k1.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\706xbqz7cd-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\n0rswdttat-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\hj73zneh7k-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\pkzlx6cw5e-c2oey78nd0.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\x15p6bgjh2-tdbxkamptv.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\b4hxfk748q-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\eervg2dymi-06098lyss8.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\0vmrodlq2k-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\s0a7cjhaq4-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\u6dpt9i1oa-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\l6t64e9bq9-46ein0sx1k.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\yn2inz8z8u-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\pkdqo0c7wf-37tfw0ft22.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\7yojdkrq5o-hrwsygsryq.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\obpiapra4r-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\8phu944tzd-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\u4x4jk5ogv-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\fetikx4zy7-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\10gan972bj-493y06b0oq.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\gou8bz0cwb-iovd86k7lj.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\pew5k0idvk-vr1egmr9el.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\krvjrcixx7-kbrnm935zg.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\me038thki7-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\jpd5fpe5ua-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\phc026rl0y-notf2xhcfb.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\y9s1ivxtwq-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\w4jaum7rl3-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\n5ijbq3bd0-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\fao8eaiujk-47otxtyo56.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\22c4wh5t27-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\ks8y84bvhw-356vix0kms.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\xwhwvruftr-83jwlth58m.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\lbh1ryp5mo-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\ppic66zl9v-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\n9iknhybeh-ag7o75518u.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\i9mvqwkbww-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\4itdqqehs4-0i3buxo5is.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\rh4loa3sfg-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\0p1cpy18vz-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\co26psx5pv-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\juthb1aoe9-muycvpuwrr.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\co5hdhp59o-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\knmz14hr0o-mlv21k5csn.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\0o9fj8dnpm-sflwix41pe.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\compressed\40vz9l8vza-sflwix41pe.gz
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.build.ACE_MVC.props
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ACE_MVC.props
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ACE_MVC.props
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.csproj.Up2Date
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\refint\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ACE_MVC.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Project\New folder\ACE_MVC\obj\Debug\net9.0\ref\ACE_MVC.dll
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\compressed\fd92hisjlu-0vho29wxsb.gz
+C:\Users\Admin\Desktop\C# Project\ACE_MVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\package-lock.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\package.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.exe
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.deps.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.runtimeconfig.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.sourcelink.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\scopedcss\bundle\ACE_MVC.styles.css
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\scopedcss\projectbundle\ACE_MVC.bundle.scp.css
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\a1ix66zav4-b9sayid5wm.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\ir39tjsg2z-61n19gt1b8.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\dgcmc1wfhk-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\41z980hc01-aexeepp0ev.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\miau2piquw-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\y42xeoy49a-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\by0fw9lfxs-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\bn6nfkbn01-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\owm82vqr6n-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\3thc19jwyt-jd9uben2k1.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\n0rswdttat-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\pkzlx6cw5e-c2oey78nd0.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\b4hxfk748q-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\0vmrodlq2k-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\u6dpt9i1oa-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\yn2inz8z8u-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\7yojdkrq5o-hrwsygsryq.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\8phu944tzd-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\fetikx4zy7-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\gou8bz0cwb-iovd86k7lj.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\krvjrcixx7-kbrnm935zg.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\jpd5fpe5ua-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\y9s1ivxtwq-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\n5ijbq3bd0-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\ks8y84bvhw-356vix0kms.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\xwhwvruftr-83jwlth58m.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\lbh1ryp5mo-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\i9mvqwkbww-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\0p1cpy18vz-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\co5hdhp59o-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\knmz14hr0o-mlv21k5csn.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\0o9fj8dnpm-sflwix41pe.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\40vz9l8vza-sflwix41pe.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets\msbuild.ACE_MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets\msbuild.build.ACE_MVC.props
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ACE_MVC.props
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ACE_MVC.props
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.csproj.Up2Date
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\refint\ACE_MVC.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.pdb
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ACE_MVC.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\ref\ACE_MVC.dll
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\fd92hisjlu-3h2we0lfl2.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\bzhi38e63i-49hvrsqvxt.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\5fpl7v3dqb-nyhhepaqjg.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\kg3i56srv3-t1cqhe9u97.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\aii33xfltk-sejl45xvog.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\c4o0mffvlq-xvp3kq03qx.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\t9vxt97jei-22vffe00uq.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\qowwynpf6m-qesaa3a1fm.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\dpt3q6j5cz-tmc1g35s3z.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\p6ucwndgcg-rxsg74s51o.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\5oqi6o4hws-q9ht133ko3.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\706xbqz7cd-gye83jo8yx.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\hj73zneh7k-wl58j5mj3v.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\x15p6bgjh2-d4r6k3f320.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\eervg2dymi-keugtjm085.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\s0a7cjhaq4-zub09dkrxp.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\l6t64e9bq9-43atpzeawx.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\pkdqo0c7wf-ynyaa8k90p.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\obpiapra4r-c63t5i9ira.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\u4x4jk5ogv-4094rpi4f9.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\10gan972bj-hd3gran6i8.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\pew5k0idvk-ltid2c489k.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\me038thki7-8vyfqsqgz1.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\phc026rl0y-u9q1upor1n.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\w4jaum7rl3-4d85u1mtcx.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\fao8eaiujk-03hjc8e09r.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\22c4wh5t27-48y08845bh.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\ppic66zl9v-worgj0nhwm.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\n9iknhybeh-gk0pw8i4co.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\4itdqqehs4-d6nrnj6jjx.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\rh4loa3sfg-m9qm4tazc0.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\co26psx5pv-jjsuc0puko.gz
+C:\Users\Admin\Desktop\Projects+\003 - Chat App\ChatApp\obj\Debug\net9.0\compressed\juthb1aoe9-9vr69e8ynj.gz

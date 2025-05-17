@@ -1,0 +1,188 @@
+/* Ensure full height layout */
+html, body, .app-container, .container-fluid, .row {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Prevent full page scrolling */
+}
+
+/* Chat Section Layout */
+.col-md-9 {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 0;
+}
+
+/* Message Section (scrollable only) */
+#messages-section {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(135deg, #e1ffd2, #fffed6);
+}
+
+/* Input Area (fixed height, no scroll) */
+.input-div {
+    padding: 10px;
+    background-color: white;
+    border-top: 1px solid #ccc;
+}
+
+/* Input and Button */
+#message-input, #send-button {
+    outline: none;
+    border: none;
+    margin-bottom: 0;
+}
+
+#message-input {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#send-button {
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#send-button:hover {
+    background-color: #0056b3;
+}
+
+/* Add Contact Button */
+#add-contact-btn {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#add-contact-btn:hover {
+    background-color: #0056b3;
+}
+
+/* User Info and Client Name */
+.userinfo {
+    margin: 10px;
+}
+
+.client {
+    margin: 10px;
+}
+
+/* Logout Button */
+.contacts-footer button {
+    background-color: #f8f9fa;
+    color: #495057;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contacts-footer button:hover {
+    background-color: #e2e6ea;
+}
+
+/* Message Styling */
+.message {
+    padding: 5px 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    width: fit-content;
+    word-wrap: break-word;
+}
+
+/* Sent Message Styling */
+.message.sent {
+    background-color: rgb(55, 165, 99);
+    color: white;
+    align-self: flex-end;
+    border-top-right-radius: 0;
+}
+
+/* Received Message Styling */
+.message.received {
+    background-color: rgb(243, 230, 230);
+    color: #495057;
+    align-self: flex-start;
+    border-top-left-radius: 0;
+}
+
+/* Message Time */
+.message-time {
+    font-size: 0.8rem;
+    color: #6c757d;
+    margin-top: 5px;
+}
+
+/* Contact List Styling */
+.list-group-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+.list-group-item .d-flex {
+    align-items: center;
+}
+
+.list-group-item img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.list-group-item.active {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Search Bar */
+#searchbar {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+/* Responsive Tweaks */
+@media (max-width: 768px) {
+    .col-md-3, .col-md-9 {
+        width: 100%;
+    }
+
+    #messages-section {
+        padding-bottom: 50px; /* buffer for input */
+    }
+}
+
+@media (max-width: 576px) {
+    .contacts-footer button {
+        padding: 8px 15px;
+    }
+
+    .message {
+        max-width: 90%;
+    }
+}
