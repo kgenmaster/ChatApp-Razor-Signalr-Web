@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ACE_MVC.sflwix41pe.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -35,6 +39,10 @@
     {
       "Id": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\image\\account_image.jpg",
       "PackagePath": "staticwebassets\\image\\account_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
       "Id": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\signalr\\signalr.js",

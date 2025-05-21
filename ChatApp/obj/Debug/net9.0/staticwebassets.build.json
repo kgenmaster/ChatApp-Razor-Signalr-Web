@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TDsy2SFQzk1MBZzQhtZms1b1rhf0INTxF/hATujdnF8=",
+  "Hash": "6RCa0YLKu3j9gQu3PBJWsJ2/4ScuyfzopAN5hlcKAbg=",
   "Source": "ACE_MVC",
   "BasePath": "_content/ACE_MVC",
   "Mode": "Default",
@@ -584,12 +584,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-3h2we0lfl2.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-0torwfgc16.gz",
       "SourceId": "ACE_MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ACE_MVC",
-      "RelativePath": "css/styles#[.{fingerprint=3h2we0lfl2}]?.css.gz",
+      "RelativePath": "css/styles#[.{fingerprint=0torwfgc16}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -598,8 +598,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vgc0uwh836",
-      "Integrity": "H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8=",
+      "Fingerprint": "5ieoh03gm2",
+      "Integrity": "k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\styles.css"
@@ -920,6 +920,27 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\mwc9ha3xg9-bshnfozfav.gz",
+      "SourceId": "ACE_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ACE_MVC",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint=bshnfozfav}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v81wuzaw3z",
+      "Integrity": "sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\n0rswdttat-r4e9w2rdcm.gz",
       "SourceId": "ACE_MVC",
       "SourceType": "Discovered",
@@ -981,6 +1002,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\nt00e2w06t-xb7x6ncoc7.gz",
+      "SourceId": "ACE_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ACE_MVC",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint=xb7x6ncoc7}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tk5sclqzhl",
+      "Integrity": "w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\bootstrap.min.css"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\obpiapra4r-c63t5i9ira.gz",
@@ -1445,6 +1487,27 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ACE_MVC.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "ACE_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\",
+      "BasePath": "_content/ACE_MVC",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xb7x6ncoc7",
+      "Integrity": "oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\site.css",
       "SourceId": "ACE_MVC",
       "SourceType": "Discovered",
@@ -1480,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3h2we0lfl2",
-      "Integrity": "h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0=",
+      "Fingerprint": "0torwfgc16",
+      "Integrity": "VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
@@ -1611,6 +1674,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\account_image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ACE_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\",
+      "BasePath": "_content/ACE_MVC",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bshnfozfav",
+      "Integrity": "y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\signalr\\signalr.js",
@@ -3513,6 +3597,304 @@
       ]
     },
     {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\nt00e2w06t-xb7x6ncoc7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032321665"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30938"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\nt00e2w06t-xb7x6ncoc7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.xb7x6ncoc7.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\nt00e2w06t-xb7x6ncoc7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032321665"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30938"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7x6ncoc7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.xb7x6ncoc7.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7x6ncoc7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.xb7x6ncoc7.css.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\nt00e2w06t-xb7x6ncoc7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7x6ncoc7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w5Rp8t+9LiL1hviCjtbHiptyyIN5kRDZ4J7u0Ft0Mio="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\a1ix66zav4-b9sayid5wm.gz",
       "Selectors": [
@@ -3811,13 +4193,13 @@
       ]
     },
     {
-      "Route": "css/styles.3h2we0lfl2.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-3h2we0lfl2.gz",
+      "Route": "css/styles.0torwfgc16.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-0torwfgc16.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000953288847"
+          "Quality": "0.000943396226"
         }
       ],
       "ResponseHeaders": [
@@ -3827,15 +4209,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1048"
+          "Value": "1059"
         },
         {
           "Name": "ETag",
-          "Value": "\"H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8=\""
+          "Value": "\"k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:12:08 GMT"
+          "Value": "Tue, 20 May 2025 05:30:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3855,13 +4237,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0=\""
+          "Value": "W/\"VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3h2we0lfl2"
+          "Value": "0torwfgc16"
         },
         {
           "Name": "label",
@@ -3869,12 +4251,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0="
+          "Value": "sha256-VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU="
         }
       ]
     },
     {
-      "Route": "css/styles.3h2we0lfl2.css",
+      "Route": "css/styles.0torwfgc16.css",
       "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3884,7 +4266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3534"
+          "Value": "3577"
         },
         {
           "Name": "Content-Type",
@@ -3892,11 +4274,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0=\""
+          "Value": "\"VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:12:08 GMT"
+          "Value": "Tue, 20 May 2025 05:30:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3906,7 +4288,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3h2we0lfl2"
+          "Value": "0torwfgc16"
         },
         {
           "Name": "label",
@@ -3914,13 +4296,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0="
+          "Value": "sha256-VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU="
         }
       ]
     },
     {
-      "Route": "css/styles.3h2we0lfl2.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-3h2we0lfl2.gz",
+      "Route": "css/styles.0torwfgc16.css.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-0torwfgc16.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3929,7 +4311,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1048"
+          "Value": "1059"
         },
         {
           "Name": "Content-Type",
@@ -3937,11 +4319,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8=\""
+          "Value": "\"k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:12:08 GMT"
+          "Value": "Tue, 20 May 2025 05:30:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3959,7 +4341,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3h2we0lfl2"
+          "Value": "0torwfgc16"
         },
         {
           "Name": "label",
@@ -3967,18 +4349,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8="
+          "Value": "sha256-k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE="
         }
       ]
     },
     {
       "Route": "css/styles.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-3h2we0lfl2.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-0torwfgc16.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000953288847"
+          "Quality": "0.000943396226"
         }
       ],
       "ResponseHeaders": [
@@ -3988,15 +4370,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1048"
+          "Value": "1059"
         },
         {
           "Name": "ETag",
-          "Value": "\"H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8=\""
+          "Value": "\"k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:12:08 GMT"
+          "Value": "Tue, 20 May 2025 05:30:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4016,13 +4398,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0=\""
+          "Value": "W/\"VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0="
+          "Value": "sha256-VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU="
         }
       ]
     },
@@ -4037,7 +4419,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3534"
+          "Value": "3577"
         },
         {
           "Name": "Content-Type",
@@ -4045,11 +4427,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0=\""
+          "Value": "\"VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:12:08 GMT"
+          "Value": "Tue, 20 May 2025 05:30:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4059,13 +4441,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h7JcKL8EWwZz/mp1wBkBV4X8Xh3syjjLWb901e0zkN0="
+          "Value": "sha256-VHIMrBG3EAUGN1JHp3aTBHqbkZ1XcAP0QQydqKrCHSU="
         }
       ]
     },
     {
       "Route": "css/styles.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-3h2we0lfl2.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\fd92hisjlu-0torwfgc16.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4074,7 +4456,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1048"
+          "Value": "1059"
         },
         {
           "Name": "Content-Type",
@@ -4082,11 +4464,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8=\""
+          "Value": "\"k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 13:12:08 GMT"
+          "Value": "Tue, 20 May 2025 05:30:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4104,7 +4486,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H62CeZxUOSkwsTKQn5n45ybpVRC2/AQVj98CjcC7DP8="
+          "Value": "sha256-k7+LO9A02QLH4UGcNK05k1XxLuZL5KKqHAIvkhZQWaE="
         }
       ]
     },
@@ -4813,6 +5195,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-YLbvCE8oL4drwPjYfRfXrYftfPwMXMpvDJi14Colpb8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.bshnfozfav.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\mwc9ha3xg9-bshnfozfav.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041595608"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24040"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bshnfozfav"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.bshnfozfav.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bshnfozfav"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.bshnfozfav.js.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\mwc9ha3xg9-bshnfozfav.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bshnfozfav"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\mwc9ha3xg9-bshnfozfav.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041595608"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24040"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3ibfOyBqlgBd+GzwFYQEVOZdNJD06HeDXihongBXKs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projects+\\003 - Chat App\\ChatApp\\obj\\Debug\\net9.0\\compressed\\mwc9ha3xg9-bshnfozfav.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUf2fNup/XSVmhvgPj6jrGAPucidPrwZHRawdoYBCoc="
         }
       ]
     },

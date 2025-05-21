@@ -5,6 +5,10 @@ html, body, .app-container, .container-fluid, .row {
     overflow: hidden; /* Prevent full page scrolling */
 }
 
+.container-fluid {
+    width: 100%;
+}
+
 /* Chat Section Layout */
 .col-md-9 {
     display: flex;
@@ -59,7 +63,7 @@ html, body, .app-container, .container-fluid, .row {
 /* Add Contact Button */
 #add-contact-btn {
     margin-top: 10px;
-    background-color: #007bff;
+    background-color: #00b336;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
